@@ -11,3 +11,5 @@ Guide:
 - Shutdown.nut -> custom2
 - VolumeDown.nut -> custom3
 - VolumeUp.nut -> custom4
+
+Tested in Windows 10 x64
