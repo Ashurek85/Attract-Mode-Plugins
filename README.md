@@ -6,3 +6,6 @@ Use:
 - **Enable**. In Attract Mode go to plugins an enable it.
 - **Map button**. Go to controls and find customs. Map a button to hardcode custom control; see it in script.
 - **Enjoy**
+
+Guide:
+- Shutdown.nut -> Custom2
