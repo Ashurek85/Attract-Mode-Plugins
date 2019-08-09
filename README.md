@@ -8,4 +8,6 @@ Use:
 - **Enjoy**
 
 Guide:
-- Shutdown.nut -> Custom2
+- Shutdown.nut -> custom2
+- VolumeDown.nut -> custom3
+- VolumeUp.nut -> custom4
